@@ -9,8 +9,11 @@ Nodeで作られており、AWS LambdaでLINE APIと接続しております。
 やり方としては、
 
   1.LINEのDeveloper登録、APIに必要なKEYを手に入れる
+
   2.LINEのアカウントを作成 
+  
   3.AWS Lambdaを用いて、linebotann.zipをAWS Lambdaにうｐ
+  
   4.AWS LambdaのAPI GATEWAYとかAPI用のKEYを入力
   
 という手順
